@@ -67,6 +67,10 @@ This project was a for-fun for myself to learn how to use MCP, it is not meant f
 - Always ensure IDA Pro is properly closed before starting the MCP server
 - The MCP server needs to be running for any IDA Pro automation scripts to work
 - This project is Windows-only at the moment - other operating systems are not supported but should work (with a little tweaking)
+- This is a rough stupid implementation but it works for my tests, it allows the LLM to better understand the api of ida-pro it's accessible to,
+  this will help developing plugins and scripts for ida!
+
+**For any and all questions feel free to reach out to me at sysc4lls@gmai.com**
 
 ## 📄 License
 
