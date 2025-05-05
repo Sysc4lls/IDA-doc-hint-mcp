@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/sysc4lls-ida-doc-hint-mcp-badge.png)](https://mseep.ai/app/sysc4lls-ida-doc-hint-mcp)
+
 # IDA Pro MCP Documentation and Utilities
 
 This project provides documentation and utilities for working with IDA Pro through MCP (Machine Code Processor).
